@@ -1,0 +1,11 @@
+Country,Year,Total Water Consumption (Billion Cubic Meters),Per Capita Water Use (Liters per Day),Water Scarcity Level,Agricultural Water Use (%),Industrial Water Use (%),Household Water Use (%),Rainfall Impact (Annual Precipitation in mm),Groundwater Depletion Rate (%),Gene_One
+USA,2003,238.78,81.91,High,20.01,41.57,13.11,778.36,1.44,8.4
+China,2008,244.43,331.84,Low,20.03,19.84,20.84,766.03,3.96,
+Saudi Arabia,2009,420.93,299.46,Low,20.04,32.96,29.12,1495.89,2.48,
+UK,2015,940.09,346.45,High,20.07,22.48,20.84,2311.45,1.4,
+Turkey,2017,910.46,461.86,Medium,20.07,33.66,31.8,751.19,4.08,6.4
+Japan,2005,319.82,374.56,Low,20.1,9.03,18.8,827.05,3.14,
+Russia,2010,891.12,237.98,High,20.11,28.76,29.47,966.91,4.76,8.9
+Brazil,2008,894.71,222.74,High,20.12,35.04,26.1,309.94,3.55,5.3
+Germany,2021,409.53,391.95,Low,20.13,34.71,21.93,506.1,2.34,6.0
+USA,2012,333.92,119.79,High,20.13,5.6,26.56,1664.09,1.41,
